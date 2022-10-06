@@ -14,13 +14,14 @@
  */
 
 body {
-  background-color: green !important;
+  background-color: green !important; // this is me testing
 }
 
 html {
   font-size: 16px;
 }
 
+// trying to hide left-hand side table
 div.state-table-container {
   visibility: hidden !important;
   display: none;
