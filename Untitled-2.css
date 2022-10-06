@@ -28,6 +28,7 @@ html {
 
 .state-table-container {
     visibility: hidden !important;
+  display: none;
 }
 div#client-style-override {
   --republicanBgd: #fcdcdf;
