@@ -21,15 +21,17 @@ html {
   font-size: 16px;
 }
 
+div.state-table-container {
+  visibility: hidden !important;
+  display: none;
+}
+
 /*
  * The following CSS variables control all colours and 
  * font-families on tables and maps in embeds.
  */
 
-.state-table-container {
-    visibility: hidden !important;
-  display: none;
-}
+
 div#client-style-override {
   --republicanBgd: #fcdcdf;
   --republicanLead: #f4b3b0;
